@@ -17,6 +17,3 @@ Classical conditioning data was collected and saved during experiment - then vid
 Instrumental conditioning data was accessed during experiment to control experiment (detect if participant gave CR at correct time and stop/ allow airpuff deliver):
   script used to access camera data to control instrumental conditioning experiments in real-time: 'real_time_eyeblink_detection.m'
   script used to transform captured camera data to check post-hoc that detections/ non-detections of CRs in real-time was accurate: 'instrumental_eyeblink_raw2timeseries.m'
-  
-Directory 'IEC_100222_class' contains timeseries and timing structure which can be used to run a tester of 'Stripped_EBC_CR_Analysis.m'. Data is contains no identifying personal information.
-
